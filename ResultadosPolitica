@@ -1,0 +1,90 @@
+Extraemos las cookies persistentes de ambas bases de datos...
+Extraemos los identificadores comunes en varios rastreos...
+Mapeo entre los dominios y aquellos que lo solicitan de forma directa...
+Extraccion de los valores de los identificadores conocidos...
+Contruyendo los mapas entre los identificadores y las cookies en las que aparecen...
+Construyendo los mapas entre los identificadores y los dominios que los conocen...
+Construyendo los mapas los dominios y los identificadores que conocen...
+===========================================================================================
+======================================BASE DE DATOS 1======================================
+===========================================================================================
+===========================================================================================
+
+ ID y numero de dominios que lo conocen:
+fdf82fc7-ad6f-4482-a615-badce881e4fc	21
+A018EC7FA2EE0D8A	2
+494c8d93a4a7824bad01a1aac7cf8791	2
+===========================================================================================
+
+ Dominio y IDs que dicho dominio conoce:
+shopify.com	21
+addthis.com	2
+tapad.com	1
+sharethis.com	1
+===========================================================================================
+
+ Dominio y numero de visitas de del historial conocido:
+shopify.com	21	1	1
+	1	1
+addthis.com	2	3	5
+	3	5
+tapad.com	1	2	5
+	3	5
+sharethis.com	1	2	5
+	3	5
+===========================================================================================
+
+ RESUMEN DE ESTADISTICAS:
+NUMERO DE IDS: 22
+NUMERO DE IDS COOKIES: 24
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 6
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 
+7
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 4
+DOMINIOS POR CADA ID: 
+ Minimo=2 |  Media=
+8.333333333333334 |  Mediana=2.0 |  Maximo=21
+ID POR CADA DOMINIO: 
+ Minimo=1 |  Media=
+6.25 |  Mediana=1.5 |  Maximo=21
+===========================================================================================
+======================================BASE DE DATOS 2======================================
+===========================================================================================
+===========================================================================================
+
+ ID y numero de dominios que lo conocen:
+fdf82fc7-ad6f-4482-a615-badce881e4fc	21
+A018EC7FA2EE0D8A	2
+494c8d93a4a7824bad01a1aac7cf8791	2
+3
+===========================================================================================
+
+ Dominio y IDs que dicho dominio conoce:
+shopify.com	21
+addthis.com	2
+tapad.com	1
+sharethis.com	1
+4
+===========================================================================================
+
+ Dominio y numero de visitas de del historial conocido:
+shopify.com	21	1	1
+	1	1
+addthis.com	2	3	5
+	3	5
+tapad.com	1	2	5
+	3	5
+sharethis.com	1	2	5
+	3	5
+===========================================================================================
+
+ RESUMEN DE ESTADISTICAS:
+NUMERO DE IDS: 22
+NUMERO DE IDS COOKIES: 24
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 6
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 7
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 4
+DOMINIOS POR CADA ID: 
+ Minimo=2 |  Media=8.333333333333334 |  Mediana=2.0 |  Maximo=21
+ID POR CADA DOMINIO: 
+ Minimo=1 |  Media=6.25 |  Mediana=1.5 |  Maximo=21

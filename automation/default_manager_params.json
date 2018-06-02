@@ -1,0 +1,11 @@
+{
+    "data_directory": "~/Desktop/RastreoPruebas",
+    "log_directory": "~/Desktop/RastreoPruebas",
+    "database_name": "rastreo2.sqlite",
+    "log_file": "openwpm.log",
+    "failure_limit": null,
+    "testing": false
+}
+
+
+

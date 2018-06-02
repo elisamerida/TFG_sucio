@@ -1,0 +1,48 @@
+===========================================================================================
+======================================BASE DE DATOS 1======================================
+===========================================================================================
+===========================================================================================
+ ID y numero de dominios que lo conocen:
+
+===========================================================================================
+ Dominio y IDs que dicho dominio conoce:
+
+===========================================================================================
+ Dominio y numero de visitas de del historial conocido:
+
+===========================================================================================
+ RESUMEN DE ESTADISTICAS:
+
+NUMERO DE IDS: 0
+NUMERO DE IDS COOKIES: 0
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 0
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 0
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 0
+DOMINIOS POR CADA ID: 
+ Minimo=0 |  Media=0.0 |  Mediana=0.0 |  Maximo=0
+ID POR CADA DOMINIO: 
+ Minimo=0 |  Media=0.0 |  Mediana=0.0 |  Maximo=0
+===========================================================================================
+======================================BASE DE DATOS 2======================================
+===========================================================================================
+===========================================================================================
+ ID y numero de dominios que lo conocen:
+
+===========================================================================================
+ Dominio y IDs que dicho dominio conoce:
+
+===========================================================================================
+ Dominio y numero de visitas de del historial conocido:
+
+===========================================================================================
+ RESUMEN DE ESTADISTICAS:
+
+NUMERO DE IDS: 0
+NUMERO DE IDS COOKIES: 0
+NUMERO DE IDS IMPLICADOS EN SINCRONIZACIONES: 0
+NUMERO DE IDS COOKIES IMPLICADOS EN SINCRONIZACIONES: 0
+NUMERO DE DOMINIOS IMPLICADOS EN SINCRONIZACIONES 0
+DOMINIOS POR CADA ID: 
+ Minimo=0 |  Media=0.0 |  Mediana=0.0 |  Maximo=0
+ID POR CADA DOMINIO: 
+ Minimo=0 |  Media=0.0 |  Mediana=0.0 |  Maximo=0

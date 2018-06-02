@@ -1,0 +1,3 @@
+/home/elisamerida/Escritorio/Interfaz/prueba2.txt
+http://www.facebook.com	
+http://www.google.com	
